@@ -1,3 +1,11 @@
+Nama  : Arip Hidayattuloh
+
+Nim   : 312010244
+
+Kelas : TI 20.B.1
+
+## Pratikum 5
+
 Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama lab5_javascript.
@@ -94,3 +102,16 @@ Pertanyaan dan Tugas
 
 
 ![Gambar1](screenshot/ss25.png)
+
+
+Laporan Praktikum
+1. Buatlah repository baru dengan nama Lab5Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta 
+screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
+
+
+-Sekian dari saya : Arip Hidayattuloh-
